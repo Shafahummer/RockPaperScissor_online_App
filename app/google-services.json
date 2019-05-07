@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404331290895",
+    "firebase_url": "https://rock-paper-65c5f.firebaseio.com",
+    "project_id": "rock-paper-65c5f",
+    "storage_bucket": "rock-paper-65c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404331290895:android:502d9fad0e2f71d8",
+        "android_client_info": {
+          "package_name": "com.example.rockpaperscissor_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404331290895-h115sc9sd567eekamcoohv5it9fsfuv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rockpaperscissor_online",
+            "certificate_hash": "9fb84c6909c4d3e63f8fe8fa9f9577e0910e7c74"
+          }
+        },
+        {
+          "client_id": "404331290895-j7ag666sgtk98hk129o6a3t284rhtnj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5DW_gkPXETtKP6s53FSn26mGigJoi_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404331290895-j7ag666sgtk98hk129o6a3t284rhtnj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
